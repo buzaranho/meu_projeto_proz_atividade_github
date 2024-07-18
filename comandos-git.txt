@@ -1,4 +1,6 @@
 git init = é usado para inicializar um repositório.
-git add . = salva tudo
-git commit -m "Foi criado o arquivo comandos-git" 
+git add . = salva tudo.
+git commit -m "Foi criado o arquivo comandos-git". 
+git config --global user.name "buzaranho" = só se vc usa nesse computador.
+git config --global user.email "alvinhu@hotmail.com" = só se vc usa nesse computador.
 git branch -m master main = trocar nome da branch de master para main.
