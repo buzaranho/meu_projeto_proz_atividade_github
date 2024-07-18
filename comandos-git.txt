@@ -1,0 +1,4 @@
+git init = é usado para inicializar um repositório.
+git add . = salva tudo
+git commit -m "Foi criado o arquivo comandos-git" 
+git branch -m master main = trocar nome da branch de master para main.
